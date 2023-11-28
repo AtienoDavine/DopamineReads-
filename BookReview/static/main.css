@@ -1,5 +1,5 @@
 body {
-  background: #494343;
+  background: steelblue;
   color: #bbbbbb;
   margin-top: 5rem;
 }
@@ -13,7 +13,7 @@ ul {
 }
 
 .bg-steel {
-  background-color: #3e8057;
+  background-color: turquoise;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -37,7 +37,7 @@ ul {
 }
 
 .article-title {
-  color: #36926f;
+  color: turquoise;
 }
 
 a.article-title:hover {
@@ -62,7 +62,7 @@ a.article-title:hover {
 }
 
 .article-metadata a:hover {
-  color: rgb(49, 136, 100);
+  color: turquoise;
   text-decoration: none;
 }
 
