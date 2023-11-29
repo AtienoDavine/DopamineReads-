@@ -1,11 +1,11 @@
 body {
-  background: steelblue;
-  color: #bbbbbb;
+  background: lightblue;
+  color: lightyellow;
   margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #b8d4c8fa;
+  color: black;
 }
 
 ul {
@@ -13,7 +13,7 @@ ul {
 }
 
 .bg-steel {
-  background-color: turquoise;
+  background-color: slategray;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -29,7 +29,7 @@ ul {
 }
 
 .content-section {
-  background: #2e2c2c;
+  background: cadetblue;
   padding: 10px 20px;
   border: 1px solid #616060;
   border-radius: 3px;
@@ -37,7 +37,7 @@ ul {
 }
 
 .article-title {
-  color: turquoise;
+  color: black;
 }
 
 a.article-title:hover {
@@ -62,7 +62,7 @@ a.article-title:hover {
 }
 
 .article-metadata a:hover {
-  color: turquoise;
+  color: rgb(49, 136, 100);
   text-decoration: none;
 }
 
@@ -82,3 +82,6 @@ a.article-title:hover {
 .account-heading {
   font-size: 2.5rem;
 }
+
+strong{
+  color: #2e2c2c;}
